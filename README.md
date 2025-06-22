@@ -31,9 +31,9 @@
 - [06_Comprehension](./python/03_iteration/06_comprehension.html)
 - [07_Iterator](./python/03_iteration/0307_iterator.html)
 
-## [4 set & dict:](./04_set_dict/04.html)
+## [4 set & dict:](04_set_dict/04.html)
 
-- [01_set](./04_set_dict/01_set.html)
+- [01_set](04_set_dict/01_set.html)
 - [02_dict](./04_set_dict/02_dict.html)
 - [03_method](./04_set_dict/03_method.html)
 - [04_dict_iteration](./04_set_dict/04_dict_iteration.html)
