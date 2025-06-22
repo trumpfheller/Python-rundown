@@ -10,15 +10,15 @@
 
 ## [1 Sequence String:](./python/02_string_listTuple/02_01_strings.html)
 
-- [01_strings_slicing](./python/02_string_listTuple/02_02_strings_slicing.html)
-- [02_string Function & Operators](./python/02_string_listTuple/03_stringOperators_functions.html)
-- [03_string_methods](./python/02_string_listTuple/04_string_methods.html)
-- [04_string_formatting](./python/02_string_listTuple/05_string_formatting.html)
-- [biggerPicture](./python/02_string_listTuple/10_biggerPicture.html)
+- [01_strings_slicing](./02_string_listTuple/02_02_strings_slicing.html)
+- [02_string Function & Operators](./02_string_listTuple/03_stringOperators_functions.html)
+- [03_string_methods](./02_string_listTuple/04_string_methods.html)
+- [04_string_formatting](./02_string_listTuple/05_string_formatting.html)
+- [biggerPicture](./02_string_listTuple/10_biggerPicture.html)
 
-## [2 Sequence List:](./python/02_string_listTuple/07_lists.html)
+## [2 Sequence List:](./02_string_listTuple/07_lists.html)
 
-- [05_lists_methods](./python/02_string_listTuple/08_lists_methods.html)
+- [05_lists_methods](./02_string_listTuple/08_lists_methods.html)
 - [06_tuples](./python/02_string_listTuple/09_tuples.html)
 
 ## [3 Iteration:](./python/03_iteration/03.html)
